@@ -1,2 +1,2 @@
-# CS310-pwd-rewrite
-A simplified rewrite of the pwd core utill for class
+# CS310-dirname-rewrite
+A simplified rewrite of the dirname core-utill for class
